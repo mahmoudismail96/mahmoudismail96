@@ -62,10 +62,10 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://mahmoud-ismail-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mahmoud-ali-28417022a/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mahmoudismail05055@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/smyl_mhmwd/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100009529296786"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/mahmoud-ali-28417022a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
+  <a href="https://mahmoud-ismail-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  alt="My Website"></a>
+  <a href="https://www.instagram.com/smyl_mhmwd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/profile.php?id=100009529296786" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Facebook"></a>
+  <a href = "mahmoudismail05055@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
